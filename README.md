@@ -9,5 +9,12 @@ and 80 years of Uranium Mining in the region.
 
 # Research
 <html>
-< a href = "https://megsmedes.github.io/DineWaterQuality.github.io/background.md"> Background </a>
+  <head>
+    <title>
+    </title>  
+  </head>
+  <body>
+    < a href = "https://megsmedes.github.io/DineWaterQuality.github.io/background.md"> Background </a>
+  </body>  
+
 </html>
