@@ -5,4 +5,5 @@ What is the groundwater quality, quantity, and accessibility on the Diné Reserv
 
 In particular, we want to examine possible consequences from the 2015 Gold King Mine spill
 and 80 years of Uranium Mining in the region.
-
+# Background
+https://megsmedes.github.io/DineWaterQuality.github.io/background
