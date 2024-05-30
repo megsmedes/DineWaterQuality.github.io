@@ -8,7 +8,8 @@ In particular, we want to examine possible consequences from the 2015 Gold King 
 and 80 years of Uranium Mining in the region.
 
 # Research
-<a href="https://megsmedes.github.io/DineWaterQuality.github.io/background" class="button">Background</a>
-<button style="background-color: #4CAF50; color: white; padding: 10x 20px;></button style>
+<a href="https://megsmedes.github.io/DineWaterQuality.github.io/background" class="button">Background<button style="background-color: #4CAF50; color: white; padding: 10x 20px;></button style></a>
+
+<button name="button" oneclick="https://megsmedes.github.io/DineWaterQuality.github.io/background">Background</button>
 
 - [Background](https://megsmedes.github.io/DineWaterQuality.github.io/background)
