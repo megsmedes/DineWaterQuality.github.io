@@ -1,5 +1,5 @@
 ---
-layout: _default
+layout: default
 title: "Background"
 permalink: /background
 ---
